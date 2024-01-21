@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+random-user-agent
+bs4
+Flask
